@@ -12,7 +12,7 @@ const Menu =
         ,
         {
             id: 2,
-            Image: "https://static.toiimg.com/thumb/61050397.cms?imgsize=246859&width=509&height=340",
+            Image: "https://cdn.mwallpapers.com/photos/celebrities/shirley-setia/shirley-setiahd-wallpapers-desktop-background-android-iphone-1080p-4k-lixgj.jpg",
             category: "Breakfast",
             price: 15,
             description: "samosa"
@@ -28,7 +28,7 @@ const Menu =
         ,
         {
             id: 4,
-            Image: "https://4.imimg.com/data4/GL/JP/MY-6394341/choco-bar-ice-cream-500x500.jpg",
+            Image: "https://cdn.mwallpapers.com/photos/celebrities/shirley-setia/md/shirley-setiahd-wallpapers-desktop-background-android-iphone-1080p-4k-gjiig.jpg",
             category: "Breakfast",
             price: 2500,
             description: "chocobar"
